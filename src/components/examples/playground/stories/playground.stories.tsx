@@ -35,14 +35,14 @@ const meta = {
                     width={1280}
                     height={916}
                     alt="Playground"
-                    className="block dark:hidden"
+                    className="block"
                 />
                 <Image
                     src={ImgPlaygroundDark}
                     width={1280}
                     height={916}
                     alt="Playground"
-                    className="hidden dark:block"
+                    className="hidden"
                 />
             </div>
             <div className="hidden h-full flex-col md:flex">

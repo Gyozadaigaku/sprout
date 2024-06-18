@@ -17,14 +17,14 @@ export default function AuthenticationPage() {
                     width={1280}
                     height={843}
                     alt="Authentication"
-                    className="block dark:hidden"
+                    className="block"
                 />
                 <Image
                     src={ImgAuthenticationDark}
                     width={1280}
                     height={843}
                     alt="Authentication"
-                    className="hidden dark:block"
+                    className="hidden"
                 />
             </div>
             <div className="container relative hidden h-[800px] flex-col items-center justify-center md:grid lg:max-w-none lg:grid-cols-2 lg:px-0">

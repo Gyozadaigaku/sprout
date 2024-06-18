@@ -30,14 +30,14 @@ const meta = {
                         width={1280}
                         height={866}
                         alt="Dashboard"
-                        className="block dark:hidden"
+                        className="block"
                     />
                     <Image
                         src={ImgDashboardDark}
                         width={1280}
                         height={866}
                         alt="Dashboard"
-                        className="hidden dark:block"
+                        className="hidden"
                     />
                 </div>
                 <div className="hidden flex-col md:flex">

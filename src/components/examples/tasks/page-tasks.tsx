@@ -39,14 +39,14 @@ export default function TaskPage() {
                     width={1280}
                     height={998}
                     alt="Playground"
-                    className="block dark:hidden"
+                    className="block"
                 />
                 <Image
                     src="/examples/tasks-dark.png"
                     width={1280}
                     height={998}
                     alt="Playground"
-                    className="hidden dark:block"
+                    className="hidden"
                 /> */}
             </div>
             <div className="hidden h-full flex-1 flex-col space-y-8 p-8 md:flex">

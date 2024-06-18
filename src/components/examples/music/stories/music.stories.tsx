@@ -24,14 +24,14 @@ const meta = {
                     width={1280}
                     height={1114}
                     alt="Music"
-                    className="block dark:hidden"
+                    className="block"
                 />
                 <Image
                     src={ImgMusicDark}
                     width={1280}
                     height={1114}
                     alt="Music"
-                    className="hidden dark:block"
+                    className="hidden"
                 />
             </div>
             <div className="hidden md:block">

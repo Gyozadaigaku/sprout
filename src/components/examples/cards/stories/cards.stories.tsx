@@ -39,14 +39,14 @@ const meta = {
                         width={1280}
                         height={1214}
                         alt="Cards"
-                        className="block dark:hidden"
+                        className="block"
                     />
                     <Image
                         src={ImgCardLight}
                         width={1280}
                         height={1214}
                         alt="Cards"
-                        className="hidden dark:block"
+                        className="hidden"
                     />
                 </div>
                 <div className="hidden items-start justify-center gap-6 rounded-lg p-8 md:grid lg:grid-cols-2 xl:grid-cols-3">
